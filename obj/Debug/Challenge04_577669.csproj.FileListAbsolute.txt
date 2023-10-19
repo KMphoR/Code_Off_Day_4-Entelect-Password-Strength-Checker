@@ -1,0 +1,11 @@
+C:\Users\Mpho\Desktop\KMR\SGILA\CODE_OFF\Challenge04_577669\bin\Debug\Challenge04_577669.exe.config
+C:\Users\Mpho\Desktop\KMR\SGILA\CODE_OFF\Challenge04_577669\bin\Debug\Challenge04_577669.exe
+C:\Users\Mpho\Desktop\KMR\SGILA\CODE_OFF\Challenge04_577669\bin\Debug\Challenge04_577669.pdb
+C:\Users\Mpho\Desktop\KMR\SGILA\CODE_OFF\Challenge04_577669\obj\Debug\Challenge04_577669.csproj.AssemblyReference.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\CODE_OFF\Challenge04_577669\obj\Debug\Challenge04_577669.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\CODE_OFF\Challenge04_577669\obj\Debug\Challenge04_577669.Form1.resources
+C:\Users\Mpho\Desktop\KMR\SGILA\CODE_OFF\Challenge04_577669\obj\Debug\Challenge04_577669.Properties.Resources.resources
+C:\Users\Mpho\Desktop\KMR\SGILA\CODE_OFF\Challenge04_577669\obj\Debug\Challenge04_577669.csproj.GenerateResource.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\CODE_OFF\Challenge04_577669\obj\Debug\Challenge04_577669.csproj.CoreCompileInputs.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\CODE_OFF\Challenge04_577669\obj\Debug\Challenge04_577669.exe
+C:\Users\Mpho\Desktop\KMR\SGILA\CODE_OFF\Challenge04_577669\obj\Debug\Challenge04_577669.pdb
